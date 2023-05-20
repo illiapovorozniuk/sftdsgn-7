@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleAppStructuralPatterns", "ConsoleAppStructuralPatterns\ConsoleAppStructuralPatterns.csproj", "{7F16FA03-0624-454C-91A2-53555AA98A5E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassLibraryStructuralPatterns", "ClassLibraryStructuralPatterns\ClassLibraryStructuralPatterns.csproj", "{8BE1CA2A-6495-470A-A28D-7469BDCA0DCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F16FA03-0624-454C-91A2-53555AA98A5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F16FA03-0624-454C-91A2-53555AA98A5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F16FA03-0624-454C-91A2-53555AA98A5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F16FA03-0624-454C-91A2-53555AA98A5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BE1CA2A-6495-470A-A28D-7469BDCA0DCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BE1CA2A-6495-470A-A28D-7469BDCA0DCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BE1CA2A-6495-470A-A28D-7469BDCA0DCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BE1CA2A-6495-470A-A28D-7469BDCA0DCE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A24D4773-DA39-4FB0-BFCE-BBABDE490978}
+	EndGlobalSection
+EndGlobal
